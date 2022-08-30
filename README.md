@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/qrcodecomponent-using-html-and-vanilia-css-P1MDmlJ6wN)
+- Live Site URL: [Qr-code-component](https://qr-code-component-iota-five.vercel.app/)
 
 ## My process
 
@@ -34,4 +34,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Unknown-bot-sus](https://www.frontendmentor.io/profile/Unknown-bot-sus)
